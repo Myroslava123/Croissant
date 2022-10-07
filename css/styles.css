@@ -14,10 +14,13 @@ footer a {
     color:rgb(255, 127, 202);
     margin: 0 10px;
 }
-.croissant-images {
+.logo {
     max-width: 100%;
     border-radius: 10px;
     display: block;
     margin: 30px auto;
 
+}
+footer{
+    text-align: center;
 }
